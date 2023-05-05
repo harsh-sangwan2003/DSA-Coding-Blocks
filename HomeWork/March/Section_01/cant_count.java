@@ -1,0 +1,18 @@
+package HomeWork.March.Section_01;
+import java.util.*;
+
+public class cant_count {
+
+    public static void main(String ...args){
+
+        Scanner scn = new Scanner(System.in);
+        int n = scn.nextInt();
+
+        int i = 1;
+        while(i<=n){
+
+            System.out.println(i);
+            i++;
+        }
+    }
+}
