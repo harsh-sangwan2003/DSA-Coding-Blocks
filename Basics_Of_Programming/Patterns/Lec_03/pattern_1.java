@@ -1,4 +1,3 @@
-package March.Basic_Of_Programming.Patterns.Lec_03;
 import java.util.*;
 
 public class pattern_1 {

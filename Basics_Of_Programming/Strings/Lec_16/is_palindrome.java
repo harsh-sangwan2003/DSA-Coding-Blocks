@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Strings.Lec_15;
 import java.util.Scanner;
 
 public class is_palindrome {

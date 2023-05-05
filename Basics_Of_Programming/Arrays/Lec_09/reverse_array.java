@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_09;
-
 public class reverse_array {
 
     public static void print(int[] arr){

@@ -1,5 +1,3 @@
-package March.Basic_Of_Programming.Functions.Lec_05;
-
 public class dataTypes {
 
     public static void main(String[] args) {

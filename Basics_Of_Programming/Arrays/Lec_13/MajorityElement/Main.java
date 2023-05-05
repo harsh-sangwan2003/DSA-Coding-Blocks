@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_13.MajorityElement;
 import java.util.Arrays;
 import java.util.Scanner;
 

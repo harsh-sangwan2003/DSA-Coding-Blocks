@@ -1,5 +1,3 @@
-package Basics_Of_Programming.ArrayList.Lec_17;
-
 import java.util.ArrayList;
 
 public class arrayList_demo {

@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_08;
-
 public class array_demo {
 
     public static void main(String[] args) {

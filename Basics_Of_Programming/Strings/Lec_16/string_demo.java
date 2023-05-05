@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Strings.Lec_15;
-
 public class string_demo {
 
     public static void main(String[] args) {

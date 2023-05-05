@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_11;
 import java.util.Scanner;
 
 public class array_product {

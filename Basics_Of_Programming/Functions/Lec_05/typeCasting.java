@@ -1,4 +1,3 @@
-package March.Basic_Of_Programming.Functions.Lec_05;
 import java.util.Scanner;
 public class typeCasting {
 

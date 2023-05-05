@@ -1,4 +1,3 @@
-package HomeWork.April.Section_03;
 import java.util.Scanner;
 public class p_37 {
 

@@ -1,5 +1,3 @@
-package Basics_Of_Programming.ArrayList.Lec_17;
-
 public class wrapper_classes {
 
     public static void main(String[] args) {

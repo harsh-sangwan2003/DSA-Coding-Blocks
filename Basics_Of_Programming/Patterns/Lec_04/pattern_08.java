@@ -1,4 +1,3 @@
-package March.Basic_Of_Programming.Patterns.Lec_04;
 import java.util.Scanner;
 
 public class pattern_08 {

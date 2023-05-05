@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.TwoDArrays.Lec_13;
 import java.util.Scanner;
 
 public class spiral_Pattern {

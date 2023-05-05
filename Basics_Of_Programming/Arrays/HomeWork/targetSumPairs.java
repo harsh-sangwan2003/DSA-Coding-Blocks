@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Arrays.HomeWork;
 import java.util.Scanner;
 public class targetSumPairs {
 

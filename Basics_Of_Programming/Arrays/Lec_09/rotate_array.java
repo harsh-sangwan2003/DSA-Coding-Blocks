@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_09;
-
 public class rotate_array {
 
     public static void print(int[] arr){

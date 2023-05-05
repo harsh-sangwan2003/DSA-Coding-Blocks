@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Strings.Lec_15;
-
 public class find_space {
 
     public static int find(String str, char ch){

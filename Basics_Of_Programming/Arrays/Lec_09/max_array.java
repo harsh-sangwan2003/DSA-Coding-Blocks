@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_09;
-
 public class max_array {
 
     public static int Max(int[] arr){

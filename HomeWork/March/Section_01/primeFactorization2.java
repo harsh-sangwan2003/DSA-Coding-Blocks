@@ -1,4 +1,3 @@
-package HomeWork.March.Section_01;
 import java.util.*;
 
 public class primeFactorization2{

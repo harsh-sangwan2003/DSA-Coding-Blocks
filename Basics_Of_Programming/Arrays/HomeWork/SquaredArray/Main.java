@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Arrays.HomeWork.SquaredArray;
 import java.util.Arrays;
 import java.util.Scanner;
 

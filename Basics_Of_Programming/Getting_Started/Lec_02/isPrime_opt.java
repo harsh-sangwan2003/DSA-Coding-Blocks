@@ -1,4 +1,3 @@
-package March.Basic_Of_Programming.Getting_Started.Lec_02;
 import java.util.Scanner;
 
 public class isPrime_opt {

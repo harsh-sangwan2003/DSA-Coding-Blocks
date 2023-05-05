@@ -1,5 +1,3 @@
-package April.Basics_Of_Programming.Arrays.Lec_09;
-
 public class find_in_array {
 
     public static int Find(int[] arr, int target){

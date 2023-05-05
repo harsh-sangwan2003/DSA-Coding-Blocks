@@ -1,4 +1,3 @@
-package HomeWork.March.Section_02;
 import java.util.Scanner;
 public class shoppingGame {
 

@@ -1,4 +1,3 @@
-package HomeWork.April.Section_04;
 import java.util.Scanner;
 
 public class increasing_decreasing {

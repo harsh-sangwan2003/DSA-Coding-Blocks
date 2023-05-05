@@ -1,4 +1,3 @@
-package HomeWork.March.Patterns;
 import java.util.Scanner;
 public class p_13 {
 

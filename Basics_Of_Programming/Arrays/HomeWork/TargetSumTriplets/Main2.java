@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Arrays.HomeWork.TargetSumTriplets;
 import java.util.Scanner;
 import java.util.Arrays;
 

@@ -1,5 +1,3 @@
-package March.Basic_Of_Programming.Getting_Started.Lec_01;
-
 public class report_card {
 
     public static void main(String[] args) {

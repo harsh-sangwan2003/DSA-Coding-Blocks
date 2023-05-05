@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.TwoDArrays.Lec_15.SearchInMatrix;
 import java.util.Scanner;
 
 public class Main3 {

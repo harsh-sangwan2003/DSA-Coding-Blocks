@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Functions.Lec_07;
 public class function {
 
     public static void main(String[] args) {

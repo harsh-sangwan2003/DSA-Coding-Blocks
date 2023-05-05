@@ -1,4 +1,3 @@
-package April.Basics_Of_Programming.Functions.Lec_06;
 import java.util.Scanner;
 public class rotate_num2 {
 
